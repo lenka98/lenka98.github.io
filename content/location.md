@@ -3,7 +3,7 @@ title: "Location"
 aliases:
     - /contact.html
 hidemeta: true
-description: "Prof. Michaillat's mailing and office addresses at the University of California, Santa Cruz."
+description: "Manoj Kumar Lenka mailing address at the Indian Institute of Tehcnology Madras, Chennai"
 
 ---
 
@@ -11,23 +11,14 @@ description: "Prof. Michaillat's mailing and office addresses at the University 
 
 #### Mailing address
 
-Economics Department  
-UC Santa Cruz  
-1156 High Street  
-Santa Cruz, CA 95064
+Department of Computer Science and Engineering  
+Indian Institute of Technology Madras  
+Chennai, Tamil Nadu, India
 
 ---
 
-#### Office address
+#### Location
 
-Room 437 (4th floor)  
-Engineering 2 Building  
-UC Santa Cruz
-
----
-
-#### Office location
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d203668.66166295038!2d-122.06180807362631!3d37.09743194165668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e4174e5b57475%3A0x97880f47ac591627!2sDepartment%20of%20Economics!5e0!3m2!1sen!2sus!4v1686026390720!5m2!1sen!2sus" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.7345819812967!2d80.22695537599661!3d12.988820587328107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d807da8e111%3A0x10c624e54965513c!2sDepartment%20of%20Computer%20Science%20and%20Engineering!5e0!3m2!1sen!2sin!4v1707463533576!5m2!1sen!2sin" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
