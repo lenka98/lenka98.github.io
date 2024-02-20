@@ -4,12 +4,8 @@ date: 2024-02-01
 url: /wisdom/
 tags: ["Wireless Sensing","TinyML","IoT","Embedded Systems"]
 author: ["Manoj Kumar Lenka", "Ayon Chakraborty"]
-description: "This paper proposes a matching model of the labor market with job rationing: unemployment persists even without matching frictions. Published in AER, 2012." 
-summary: "Recent Wi-Fi sensing literature uses deep neural networks to analyze wireless channel dynamics. This being a resource intensive process is usually carried out at the edge, but this isn't always practical due to cost and bandwidth constraints. We propose on-device sensing for IoT platforms, introducing WISDOM to optimize inference models based on hardware and application needs. WISDOM achieves better utility than baseline models in over 85% of cases." 
-cover:
-    image: "/1.png"
-    alt: "Rationing and frictional unemployment in the United States, 1964–2009"
-    relative: false
+description: "Recent Wi-Fi sensing literature uses deep neural networks to analyze wireless channel dynamics. This being a resource intensive process is usually carried out at the edge, but this isn't always practical due to cost and bandwidth constraints. We propose on-device sensing for IoT platforms, introducing WISDOM to optimize inference models based on hardware and application needs. WISDOM achieves better utility than baseline models in over 85% of cases. It will be published in proceedings of PerCom Workshop 2024, Biarritz, France." 
+summary: "Recent Wi-Fi sensing literature uses deep neural networks to analyze wireless channel dynamics. This being a resource intensive process is usually carried out at the edge, but this isn't always practical due to cost and bandwidth constraints. We propose on-device sensing for IoT platforms, introducing WISDOM to optimize inference models based on hardware and application needs. WISDOM achieves better utility than baseline models in over 85% of cases. It will be published in proceedings of PerCom Workshop 2024, Biarritz, France." 
 editPost:
     Text: "PerCom Workshops 2024"
 
@@ -39,13 +35,14 @@ We demonstrate that models obtained using the Wisdom framework achieve higher ut
 
 ##### Citation
 
-M. Lenka and A. Chakraborty, “On-Device Deep Learning for IoT-based Wireless Sensing Applications,” in 2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), 2024
+M. Lenka and A. Chakraborty, “On-Device Deep Learning for IoT-based Wireless Sensing Applications,” in 2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Biarritz, France, 2024
 
 ```BibTeX
-@inproceedings{sense2023wisdom,
+@inproceedings{lenka2024wisdom,
 	title={On-Device Deep Learning for IoT-based Wireless Sensing Applications},
 	author={Lenka, Manoj and Chakraborty, Ayon},
 	booktitle={2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
+    location={Biarritz, France},
 	year={2024}
 }
 ```
