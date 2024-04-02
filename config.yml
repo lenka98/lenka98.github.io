@@ -40,7 +40,12 @@ params:
     profileMode:
           enabled: true
           title: Manoj Kumar Lenka
-          subtitle: "I'm a MS student in the Department of Computer Science and Engineering at the Indian Institute of Technology Madras, Chennai. I am engaged in resarch at SENSE Lab under the guidance of Dr. Ayon Chakraborty. My research focus spans the interdisciplinary domains of sensing, wireless communication, embedded systems, and machine learning "
+          subtitle: "I am a MS student in the Department of Computer Science and Engineering at the Indian Institute of Technology Madras, Chennai.
+          I am engaged in resarch at SENSE Lab under the guidance of Dr. Ayon Chakraborty.
+          My research focus spans the interdisciplinary domains of sensing, wireless communication, embedded systems, and machine learning.</br>
+          <b>I am seeking opportunities to continue my academic journey through a PhD.</b>
+          If my background and research focus align with your lab's endeavors, I would be thrilled to explore potential collaborations.
+          Please feel free to reach out to me."
           imageUrl: "/picture.jpg"
           imageWidth: 160
           imageHeight: 160

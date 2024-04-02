@@ -1,6 +1,6 @@
 ---
 title: "On-Device Deep Learning for IoT-based Wireless Sensing Applications" 
-date: 2024-02-01
+date: 2024-03-15
 
 tags: ["Wireless Sensing","TinyML","IoT","Embedded Systems"]
 author: ["Manoj Kumar Lenka", "Ayon Chakraborty"]
@@ -13,11 +13,12 @@ editPost:
 
 ##### View
 
-+ [Paper - TBA]()
++ [Paper](wisdom.pdf)
 + [Artifact Paper](artifact_wisdom.pdf)
 + [Code](https://github.com/senselab-iitm/wisdom)
 + [Data](https://drive.google.com/drive/u/2/folders/13Crp-owAzkjZVH85AhisW9Yfi78wsoMf)
 + [Website](http://cse.iitm.ac.in/~sense/wisdom/)
++ [Slides](slides_wisdom.pdf)
 
 ---
 
