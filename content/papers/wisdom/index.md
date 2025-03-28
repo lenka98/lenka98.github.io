@@ -4,8 +4,8 @@ date: 2024-03-15
 
 tags: ["Wireless Sensing","TinyML","IoT","Embedded Systems"]
 author: ["Manoj Kumar Lenka", "Ayon Chakraborty"]
-description: "Recent Wi-Fi sensing literature uses deep neural networks to analyze wireless channel dynamics. This being a resource intensive process is usually carried out at the edge, but this isn't always practical due to cost and bandwidth constraints. We propose on-device sensing for IoT platforms, introducing WISDOM to optimize inference models based on hardware and application needs. WISDOM achieves better utility than baseline models in over 85% of cases. It will be published in proceedings of PerCom Workshop 2024, Biarritz, France." 
-summary: "Recent Wi-Fi sensing literature uses deep neural networks to analyze wireless channel dynamics. This being a resource intensive process is usually carried out at the edge, but this isn't always practical due to cost and bandwidth constraints. We propose on-device sensing for IoT platforms, introducing WISDOM to optimize inference models based on hardware and application needs. WISDOM achieves better utility than baseline models in over 85% of cases. It will be published in proceedings of PerCom Workshop 2024, Biarritz, France." 
+description: "Recent Wi-Fi sensing literature uses deep neural networks to analyze wireless channel dynamics. This being a resource intensive process is usually carried out at the edge, but this isn't always practical due to cost and bandwidth constraints. We propose on-device sensing for IoT platforms, introducing WISDOM to optimize inference models based on hardware and application needs. WISDOM achieves better utility than baseline models in over 85% of cases. It is published in proceedings of PerCom Workshop 2024, Biarritz, France." 
+summary: "Recent Wi-Fi sensing literature uses deep neural networks to analyze wireless channel dynamics. This being a resource intensive process is usually carried out at the edge, but this isn't always practical due to cost and bandwidth constraints. We propose on-device sensing for IoT platforms, introducing WISDOM to optimize inference models based on hardware and application needs. WISDOM achieves better utility than baseline models in over 85% of cases. It is published in proceedings of PerCom Workshop 2024, Biarritz, France." 
 editPost:
     Text: "PerCom Workshops 2024"
 
@@ -38,26 +38,26 @@ We demonstrate that models obtained using the Wisdom framework achieve higher ut
 
 ###### Workshop
 
-M. Lenka and A. Chakraborty, “On-Device Deep Learning for IoT-based Wireless Sensing Applications,” in 2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Biarritz, France, 2024
+M. Lenka and A. Chakraborty, “On-Device Deep Learning for IoT-based Wireless Sensing Applications,” in IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Biarritz, France, 2024
 
 ```BibTeX
 @inproceedings{lenka2024wisdom,
 	title={On-Device Deep Learning for IoT-based Wireless Sensing Applications},
 	author={Lenka, Manoj and Chakraborty, Ayon},
-	booktitle={2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
+	booktitle={IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
     location={Biarritz, France},
 	year={2024}
 }
 ```
 ###### Artifact
 
-M. Lenka and A. Chakraborty, “ARTIFACT: On-Device Deep Learning for IoT-based Wireless Sensing Applications,” in 2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Biarritz, France, 2024
+M. Lenka and A. Chakraborty, “ARTIFACT: On-Device Deep Learning for IoT-based Wireless Sensing Applications,” in IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), Biarritz, France, 2024
 
 ```BibTeX
 @inproceedings{lenka2024wisdomartifact,
 	title={ARTIFACT: On-Device Deep Learning for IoT-based Wireless Sensing Applications},
 	author={Lenka, Manoj and Chakraborty, Ayon},
-	booktitle={2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
+	booktitle={IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},
     location={Biarritz, France},
 	year={2024}
 }

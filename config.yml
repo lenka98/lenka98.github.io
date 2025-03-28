@@ -40,13 +40,13 @@ params:
     profileMode:
           enabled: true
           title: Manoj Kumar Lenka
-          subtitle: "I am a MS student in the Department of Computer Science and Engineering at the Indian Institute of Technology Madras, Chennai.
-          I am engaged in resarch at SENSE Lab under the guidance of Dr. Ayon Chakraborty.
-          My research focus spans the interdisciplinary domains of sensing, wireless communication, embedded systems, and machine learning.</br>
-          <b>I am seeking opportunities to continue my academic journey through a PhD.</b>
+          subtitle: "I am a PhD student at Nanyang Technological Institute (NTU), Singapore.
+          Working in the Hardware and Embedded Systems Lab under the Cyber-Physical Systems Group, guided by Dr. Arvind Easwaran.
+          My research interests encompass embedded systems, sensors, wireless communication, and real-time/reliable systems.
+          I also look into how machine learning integrates into such systems, like model compression, using ML to improve sensing or communcation, etc.
           If my background and research focus align with your lab's endeavors, I would be thrilled to explore potential collaborations.
           Please feel free to reach out to me."
-          imageUrl: "/picture.jpg"
+          imageUrl: "/profile.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Manoj Kumar Lenka
@@ -65,8 +65,10 @@ params:
           url: https://scholar.google.com/citations?user=c_jUvRkAAAAJ
         - name: GitHub
           url: https://github.com/lenka98
-        - name: SENSE Lab
-          url: https://www.cse.iitm.ac.in/~ayon/#
+        - name: CPS Group
+          url: https://cps-research-group.github.io/
+        - name: SeNSE Group
+          url: https://cse.iitm.ac.in/~sense/
 
     assets:
         disableHLJS: true
