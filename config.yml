@@ -40,12 +40,10 @@ params:
     profileMode:
           enabled: true
           title: Manoj Kumar Lenka
-          subtitle: "I am a PhD student at Nanyang Technological Institute (NTU), Singapore.
-          Working in the Hardware and Embedded Systems Lab under the Cyber-Physical Systems Group, guided by Dr. Arvind Easwaran.
-          My research interests encompass embedded systems, sensors, wireless communication, and real-time/reliable systems.
-          I also look into how machine learning integrates into such systems, like model compression, using ML to improve sensing or communcation, etc.
-          If my background and research focus align with your lab's endeavors, I would be thrilled to explore potential collaborations.
-          Please feel free to reach out to me."
+          subtitle: "I am a PhD student at Nanyang Technological University (NTU), Singapore, working in the Cyber-Physical Systems (CPS) Group under the guidance of Dr. Arvind Easwaran. Previously, I was part of the Sensing and Networked System Engineering (SeNSE) Group at the Indian Institute of Technology Madras, where I worked under Dr. Ayon Chakraborty.
+          My research interests lie at the intersection of embedded systems, wireless communication, real-time and reliable systems, and sensor technologies. 
+          I am also interested in how machine learning can be leveraged in such systems, whether through model compression techniques for resource-constrained devices or using ML-driven approaches to enhance sensing, communication, and system resilience.
+          If my expertise and research focus align with your lab’s work, I would be excited to explore potential collaborations. Please feel free to reach out to me."
           imageUrl: "/picture.jpg"
           imageWidth: 160
           imageHeight: 160
