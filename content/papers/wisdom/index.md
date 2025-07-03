@@ -13,8 +13,9 @@ editPost:
 
 ##### View
 
-+ [Paper](wisdom.pdf)
++ [Workshop Paper](wisdom.pdf)
 + [Artifact Paper](artifact_wisdom.pdf)
++ [Extended Journal Paper](wisdom_journal.pdf)
 + [Code](https://github.com/senselab-iitm/wisdom)
 + [Data](https://drive.google.com/drive/u/2/folders/13Crp-owAzkjZVH85AhisW9Yfi78wsoMf)
 + [Website](http://cse.iitm.ac.in/~sense/wisdom/)
